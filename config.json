@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-jwt-sqlite",
+      "title": "FastAPI Auth with JWT and SQLite",
+      "description": "Build a secure FastAPI API with JWT authentication, SQLite persistence, and user-scoped CRUD endpoints.",
+      "path": "assignments/fastapi-jwt-sqlite",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
